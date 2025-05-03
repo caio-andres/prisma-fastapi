@@ -1,7 +1,12 @@
 # Prisma + FastAPI
 
-- It's a repository created to improve my habilities with Prisma + FastAPI using Python.
 - Whole explanation bellow ;)
+
+## Technologies used
+
+- Python
+- Prisma
+- FastAPI
 
 ## Getting started
 
