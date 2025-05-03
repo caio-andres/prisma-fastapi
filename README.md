@@ -1,14 +1,14 @@
 # Prisma + FastAPI
 
-- Whole explanation bellow ;)
+Whole project's explanation bellow ;)
 
-## Technologies used
+### Technologies used
 
 - Python
 - Prisma
 - FastAPI
 
-## Getting started
+### Getting started
 
 #### 1. Create the virtual environment to store the dependencies you will install (it's good to avoid the global installation of dependencies)
 
