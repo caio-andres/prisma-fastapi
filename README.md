@@ -1,4 +1,9 @@
-# Getting started
+# Prisma + FastAPI
+
+- It's a repository created to improve my habilities with Prisma + FastAPI using Python.
+- Whole explanation bellow ;)
+
+## Getting started
 
 #### 1. Create the virtual environment to store the dependencies you will install (it's good to avoid the global installation of dependencies)
 
